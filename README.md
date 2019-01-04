@@ -1,0 +1,2 @@
+# jrdg-bot
+Bot JRDG
